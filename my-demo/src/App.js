@@ -19,6 +19,7 @@ class App extends Component {
           >
             Learn React
           </a>
+          <h1>标签</h1>
         </header>
       </div>
     );
